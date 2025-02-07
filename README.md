@@ -12,5 +12,5 @@ After building three BrailleRap machines in the OpenLab at Helmuth Schmidt Unive
 - **Spacer Issue:** The spacers listed in the BOM are too long. The solenoid hits the heatsinks of the stepper motor drivers. To address this, we used self-locking nuts and M3 screws to create custom spacers for the controller board. This solution worked well.  
 - **Stylus Punch Calibration:** After calibrating the height of the stylus punch, we applied Loctite to the part of the solenoid that screws into the spacer and the stylus. This prevents the parts from coming loose.  
   - We neglected to do this initially, which caused the machine to become unstable and ultimately damaged one of the stepper drivers.
-
+:)
 ---
